@@ -43,7 +43,7 @@
 
 <ol>
     <li><strong>Clone the repository:</strong></li>
-    <pre><code>git clone https:https://github.com/Shivam1570/AI_chemist
+    <pre><code>git clone https://github.com/Shivam1570/AI_chemist
 </code></pre>
     <li><strong>Install dependencies:</strong></li>
     <pre><code>pip install -r requirements.txt
